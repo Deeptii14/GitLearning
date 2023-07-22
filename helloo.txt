@@ -1,1 +1,2 @@
-Hello to the world of git
+Hello to the world of git.
+Finnaly I am able to upload the code on github.
